@@ -12,3 +12,11 @@
         - 카페
         - 체육관(7층)
         - 헬스장(지하3층)
+
+# 타임라인
+
+### 2022-02-08 (화)
+bootstrap 연결 > index.js 에 소스 추가
+react router 연결 > npm install react-router-dom
+navbar 만들기 > bootstrap 활용하여 진행
+
